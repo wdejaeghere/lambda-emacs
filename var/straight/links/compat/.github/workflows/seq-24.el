@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/compat/.github/workflows/seq-24.el

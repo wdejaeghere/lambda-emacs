@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/org-appear/org-appear.el

@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/svg-tag-mode/svg-tag-mode.el

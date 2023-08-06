@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/auctex/style/revtex4-2.el

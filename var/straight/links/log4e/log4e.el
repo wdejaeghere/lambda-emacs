@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/log4e/log4e.el

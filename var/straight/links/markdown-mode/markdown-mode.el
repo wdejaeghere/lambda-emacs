@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/markdown-mode/markdown-mode.el

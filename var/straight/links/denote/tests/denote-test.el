@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/denote/tests/denote-test.el

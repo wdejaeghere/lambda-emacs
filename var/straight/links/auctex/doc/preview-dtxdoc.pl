@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/auctex/doc/preview-dtxdoc.pl

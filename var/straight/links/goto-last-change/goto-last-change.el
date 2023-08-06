@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/goto-last-change.el/goto-last-change.el

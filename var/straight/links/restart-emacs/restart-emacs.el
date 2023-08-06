@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/restart-emacs/restart-emacs.el

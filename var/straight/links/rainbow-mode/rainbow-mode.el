@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/rainbow-mode/rainbow-mode.el

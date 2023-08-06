@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/ns-auto-titlebar/ns-auto-titlebar.el

@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/visual-fill-column/visual-fill-column.el

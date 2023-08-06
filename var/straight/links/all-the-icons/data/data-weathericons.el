@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/all-the-icons.el/data/data-weathericons.el

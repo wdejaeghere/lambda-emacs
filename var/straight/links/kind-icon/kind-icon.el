@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/kind-icon/kind-icon.el

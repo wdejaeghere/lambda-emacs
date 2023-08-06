@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/visual-regexp.el/visual-regexp.el

@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/haskell-mode/ghci-script-mode.el

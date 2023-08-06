@@ -1,0 +1,1 @@
+c:/users/wdj/.emacs.d/var/straight/repos/outline-minor-faces/outline-minor-faces.el
